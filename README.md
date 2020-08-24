@@ -5,6 +5,10 @@ este proyecto es un api rest conectado a una base de datos en sql server hecho e
 
 tener insladado Visual studio 2017 en adelate 
 es necesario descargar desde NuGet los siguientes paquetes
-#
 
-[![solarized dualmode](https://github.com/marlonportillo/apiteste/raw/master/assets/nuget.JPG)](#features)
+
+[![solarized dualmode](https://github.com/marlonportillo/apiteste/raw/master/assets/nuget.JPG)]
+<br/>
+y los sdk asi 
+<br/>
+[![solarized dualmode](https://github.com/marlonportillo/apiteste/raw/master/assets/sdk.JPG)]
