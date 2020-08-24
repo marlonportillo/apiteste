@@ -1,0 +1,14 @@
+C:\Users\porti\source\repos\api_prueba\api_prueba\bin\Debug\netcoreapp2.2\api_prueba.deps.json
+C:\Users\porti\source\repos\api_prueba\api_prueba\bin\Debug\netcoreapp2.2\api_prueba.runtimeconfig.json
+C:\Users\porti\source\repos\api_prueba\api_prueba\bin\Debug\netcoreapp2.2\api_prueba.runtimeconfig.dev.json
+C:\Users\porti\source\repos\api_prueba\api_prueba\bin\Debug\netcoreapp2.2\api_prueba.dll
+C:\Users\porti\source\repos\api_prueba\api_prueba\bin\Debug\netcoreapp2.2\api_prueba.pdb
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.csproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.RazorAssemblyInfo.cache
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.RazorAssemblyInfo.cs
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.AssemblyInfoInputs.cache
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.AssemblyInfo.cs
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.RazorTargetAssemblyInfo.cache
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.dll
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.pdb
+C:\Users\porti\source\repos\api_prueba\api_prueba\obj\Debug\netcoreapp2.2\api_prueba.csprojAssemblyReference.cache
